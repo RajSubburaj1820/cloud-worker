@@ -1,0 +1,5 @@
+io/camunda/getstarted/SampleWorker.class
+io/camunda/getstarted/ZeebeClientFactory.class
+io/camunda/getstarted/SampleMessage.class
+io/camunda/getstarted/SampleMicroservice.class
+io/camunda/getstarted/SampleLocalWorker.class
